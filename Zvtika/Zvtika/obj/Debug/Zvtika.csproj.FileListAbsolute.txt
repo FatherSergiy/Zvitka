@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\Zvtika\Zvtika\bin\Debug\Zvtika.exe.config
-C:\Users\User\source\repos\Zvtika\Zvtika\bin\Debug\Zvtika.exe
-C:\Users\User\source\repos\Zvtika\Zvtika\bin\Debug\Zvtika.pdb
-C:\Users\User\source\repos\Zvtika\Zvtika\obj\Debug\Zvtika.csprojAssemblyReference.cache
-C:\Users\User\source\repos\Zvtika\Zvtika\obj\Debug\Zvtika.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Zvtika\Zvtika\obj\Debug\Zvtika.exe
-C:\Users\User\source\repos\Zvtika\Zvtika\obj\Debug\Zvtika.pdb
